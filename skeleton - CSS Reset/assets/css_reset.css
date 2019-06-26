@@ -1,0 +1,10 @@
+head, body, aside, header, ul, nav, li, h1, h2, ol, section{ 
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  font-variant: inherit
+}
